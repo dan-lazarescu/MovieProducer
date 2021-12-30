@@ -1,0 +1,31 @@
+{
+  "namespace": "tyre_store",
+  "type": "record",
+  "name": "Item",
+  "fields": [
+    {
+      "name": "itemId",
+      "type": "int"
+    },
+    {
+      "name": "brand",
+      "type": "string"
+    },
+    {
+      "name": "itemType",
+      "type": "string"
+    },
+    {
+      "name": "description",
+      "type": "string"
+    },
+    {
+      "name": "dimensions",
+      "type": "string"
+    },
+    {
+      "name": "price",
+      "type": "float"
+    }
+  ]
+}
