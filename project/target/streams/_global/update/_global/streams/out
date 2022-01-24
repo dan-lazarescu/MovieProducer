@@ -1,3 +1,3 @@
-[debug] not up to date. inChanged = false, force = false
-[debug] Updating ProjectRef(uri("file:/home/dan_lazarescu/IdeaProjects/scala/CsvReader/project/"), "csvreader-build")...
-[debug] Done updating ProjectRef(uri("file:/home/dan_lazarescu/IdeaProjects/scala/CsvReader/project/"), "csvreader-build")
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/dan_lazarescu/IdeaProjects/scala/MovieProducer/project/"), "movieproducer-build")...
+[debug] Done updating ProjectRef(uri("file:/home/dan_lazarescu/IdeaProjects/scala/MovieProducer/project/"), "movieproducer-build")

@@ -6,6 +6,6 @@ object StartReader extends App {
 
   val system = ActorSystem("CsvFileReader")
   val csvProducer = system.actorOf(Props[CsvProducer], "CsvProducer")
-  csvProducer ! StartReading
+  csvProducer ! StartReadingMovies
 
 }

@@ -1,0 +1,74 @@
+{
+  "namespace": "movie",
+  "type": "record",
+  "name": "Video",
+  "fields": [
+    {
+      "name": "video_id",
+      "type": {
+        "type": "string",
+        "logicalType": "uuid"
+      }
+    },
+    {
+      "name": "avg_rating",
+      "type": "string"
+    },
+    {
+      "name": "description",
+      "type": "string"
+    },
+    {
+      "name": "encoding",
+      "type": "string"
+    },
+    {
+      "name": "genres",
+      "type": {
+                 "type": "array",
+                 "items": "string"
+               }
+    },
+    {
+      "name": "mpaa_rating",
+      "type": "string"
+    },
+    {
+      "name": "preview_thumbnails",
+      "type": "string"
+    },
+    {
+      "name": "release_date",
+      "type": {
+        "type": "int",
+        "logicalType": "date"
+      }
+    },
+    {
+      "name": "tags",
+      "type": {
+                 "type": "array",
+                 "items": "string"
+               }
+    },
+    {
+      "name": "title",
+      "type": "string"
+    },
+    {
+      "name": "movie_type",
+      "type": "string"
+    },
+    {
+      "name": "url",
+      "type": "string"
+    },
+    {
+      "name": "user_id",
+      "type": {
+        "type": "string",
+        "logicalType": "uuid"
+      }
+    }
+  ]
+}

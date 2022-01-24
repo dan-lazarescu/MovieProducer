@@ -1,0 +1,5 @@
+video_id,avg_rating,description,encoding,genres,mpaa_rating,preview_thumbnails,release_date,tags,title,movie_type,url,user_id
+7eeb420a-0ef2-11e5-8242-8438abcdb7e3a,3.3,"","{encoding: '1080p', height: 1080, width: 1920}","{'Drama', 'Bla bla'}",R,"{'1': 'some_thumbnail', '2': 'another thumbnail'}",1980-04-01,{},"Sweet William's",Serial,,63d97ca8-4630-4bad-805f-3bda997f3dcc
+xxxx0000-0000-0000-0000-000000000000a,4.4,"","{encoding: '1080p', height: 1080, width: 1920}","{'Gangsters Movie','Crime Thriller','Action/Adventure'}",R,{},2000-01-01,{},"The Heat",Movie,,63d97ca8-4630-4bad-805f-3bda997f3dcc
+8a3de0ba-0ef2-11e5-a70c-8438355b7e3a,5,"","{encoding: '1080p', height: 1080, width: 1920}","{'Dramaturg','Crime Fiction'}",PG,{},2011-09-09,{},"Life Without Principle",Movie,,63d97ca8-4630-4bad-805f-3bda997f3dcc
+85606cde-0ef2-11e5-9d1e-8438355b7e3a,,"","{encoding: '1080p', height: 1080, width: 1920}","{'Gangster Film','Crime Thriller','Action/Adventure'}",R,{},2000-01-01,{},"The Exchange",Movie,,63d97ca8-4630-4bad-805f-3bda997f3dcc
